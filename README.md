@@ -9,7 +9,9 @@ Supports actomatically Dark Mode.
 ## Instructions
 ### 1- Before you start
 Before you begin, ensure you have met the following requirements:
+
 1.1 - Create your [Runalyze](https://runalyze.com/) account 
+
 1.2 - Install [Scriptable](https://scriptable.app) on your phone
 
 ### 2 -Configure scriptable
