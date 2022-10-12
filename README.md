@@ -1,7 +1,8 @@
 # runalyze-scriptable
 Uses scriptable app to show reanalyze data as widget on iOS
-<img src="https://user-images.githubusercontent.com/45463445/195308981-7a57c321-19df-4561-be44-423db451da6e.png" alt="light mode" width="50"/>
-<img src="https://user-images.githubusercontent.com/45463445/195309708-cc70e2e5-60b4-468b-8349-aaa19ac0b968.png" alt="dark mode" width="50"/>
+
+<img src="https://user-images.githubusercontent.com/45463445/195308981-7a57c321-19df-4561-be44-423db451da6e.png" alt="light mode" width="200"/>
+<img src="https://user-images.githubusercontent.com/45463445/195309708-cc70e2e5-60b4-468b-8349-aaa19ac0b968.png" alt="dark mode" width="200"/>
 
 Supports actomatically Dark Mode.
 
