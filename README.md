@@ -46,3 +46,4 @@ If you want to display different data, pick the avaialble data from lines 73-84 
 
 ## When runing the first time, the login may take some time to return. If it doesn't retun, run again after a minute and it will be loggedin (need different login in the app and in the widget (different sessions)
 
+This script is provided to you "as-is", for personal use, use at your own risk.
